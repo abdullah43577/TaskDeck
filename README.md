@@ -44,7 +44,7 @@ Follow this Guideline to contribute to this project
 
 <h1 align="center">How To Contribute</h1>
 
-1. Install Git and Configure it`If you've installed git please skip this step`
+<h2>1. Install Git and Configure it `If you've installed git please skip this step`</h2>
 
 ![Git Logo](./Images/git%20image.png)
 
@@ -56,7 +56,7 @@ I recommend you watch this if you haven't installed git.
 
 ---
 
-2. Fork this repository and Pull or clone the repo locally.
+<h2>2. Fork this repository and Pull or clone the repo locally.</h2>
 
 ![Step 1](./Images/page_1.jpeg)
 
@@ -73,7 +73,7 @@ It should look like this:
 
 ---
 
-3. Switch directory into the cloned project
+<h2>3. Switch directory into the cloned project</h2>
 
 Next switch into the folder of the repo we just cloned by typing this command in your bash terminal:
 
@@ -88,7 +88,7 @@ Following the above process would switch you into a directory called `TaskDeck`
 
 ---
 
-4. Point upstream to origin branch
+<h2>4. Point upstream to origin branch</h2>
 
 you then point the origin branch you want to push to to git using:
 
@@ -98,7 +98,7 @@ where `yourAccountName` is your github username, once again this would be filled
 
 ---
 
-5. Create branch
+<h2>5. Create branch</h2>
 
 Now we have successfully pointed our origin repo to upstream, we can now create a new branch which we'll be making our changes from. To create a branch, type the command:
 
@@ -108,13 +108,13 @@ You can name the branch anything you want, E.g `git checkout -b main`
 
 ---
 
-6. Make your changes
+<h2>6. Make your changes</h2>
 
 At this step, you would have finished making all the changes you needed done in the code you downloaded locally on your system.
 
 ---
 
-7. Make Commit `save the file`
+<h2>7. Make Commit `save the file`</h2>
 
 since we are now done making changes to the file we run this code
 
@@ -136,7 +136,7 @@ running the commit command will automatically save your code and it's ready to b
 
 ---
 
-8. Push changes back to Github
+<h2>8. Push changes back to Github</h2>
 
 To deploy your code back to GitHub you run
 
@@ -150,7 +150,7 @@ the changes should get pushed to the main repository (for this example) and we c
 
 ---
 
-9. Make a Pull Request
+<h2>9. Make a Pull Request</h2>
 
 Now when you check the repo your forked, you should see the changes we just pushed to GitHub
 
