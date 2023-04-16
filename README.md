@@ -56,7 +56,9 @@ I recommend you watch this if you haven't installed git.
 
 ---
 
+<br>
 <h2>2. Fork this repository and Pull or clone the repo locally.</h2>
+<br>
 
 ![Step 1](./Images/page_1.jpeg)
 
@@ -73,7 +75,9 @@ It should look like this:
 
 ---
 
-<h2 style="padding-block: 40px;">3. Switch directory into the cloned project</h2>
+<br>
+<h2>3. Switch directory into the cloned project</h2>
+<br>
 
 Next switch into the folder of the repo we just cloned by typing this command in your bash terminal:
 
@@ -88,7 +92,9 @@ Following the above process would switch you into a directory called `TaskDeck`
 
 ---
 
-<h2 style="padding-block: 40px;">4. Point upstream to origin branch</h2>
+<br>
+<h2>4. Point upstream to origin branch</h2>
+<br>
 
 you then point the origin branch you want to push to to git using:
 
@@ -98,7 +104,9 @@ where `yourAccountName` is your github username, once again this would be filled
 
 ---
 
-<h2 style="padding-block: 40px;">5. Create branch</h2>
+<br>
+<h2>5. Create branch</h2>
+<br>
 
 Now we have successfully pointed our origin repo to upstream, we can now create a new branch which we'll be making our changes from. To create a branch, type the command:
 
@@ -108,13 +116,17 @@ You can name the branch anything you want, E.g `git checkout -b main`
 
 ---
 
-<h2 style="padding-block: 40px;">6. Make your changes</h2>
+<br>
+<h2>6. Make your changes</h2>
+<br>
 
 At this step, you would have finished making all the changes you needed done in the code you downloaded locally on your system.
 
 ---
 
-<h2 style="padding-block: 40px;">7. Make Commit `save the file`</h2>
+<br>
+<h2>7. Make Commit `save the file`</h2>
+<br>
 
 since we are now done making changes to the file we run this code
 
@@ -136,7 +148,9 @@ running the commit command will automatically save your code and it's ready to b
 
 ---
 
-<h2 style="padding-block: 40px;">8. Push changes back to Github</h2>
+<br>
+<h2>8. Push changes back to Github</h2>
+<br>
 
 To deploy your code back to GitHub you run
 
@@ -150,7 +164,9 @@ the changes should get pushed to the main repository (for this example) and we c
 
 ---
 
-<h2 style="padding-block: 40px;">9. Make a Pull Request</h2>
+<br>
+<h2>9. Make a Pull Request</h2>
+<br>
 
 Now when you check the repo your forked, you should see the changes we just pushed to GitHub
 
